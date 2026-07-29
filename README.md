@@ -14,6 +14,7 @@ Each folder matches a tutorial video on the **BizCentralOrbit YouTube channel**.
 |---|--------|-----------|-------|
 | 01 | [01-dark-mode](./01-dark-mode/) | Dark Mode toggle for the entire BC UI | ▶ YouTube |
 | 02 | [02-sales-dashboard](./02-sales-dashboard/) | Live Sales Dashboard with Canvas charts | ▶ YouTube |
+| 03 | [03-whatsapp-invoice](./03-whatsapp-invoice/) | Send Sales Invoices via WhatsApp (Meta Cloud API) | ▶ YouTube |
 | ... | More coming | Subscribe to stay updated | 📺 |
 
 ---
