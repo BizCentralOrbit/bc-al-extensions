@@ -1,0 +1,38 @@
+{
+  "id": "a3f2e1d0-bc30-4500-9a1b-000000300301",
+  "name": "WhatsApp Invoice",
+  "publisher": "BizCentralOrbit",
+  "version": "1.0.0.0",
+  "brief": "Send Posted Sales Invoices via WhatsApp using Meta Cloud API",
+  "description": "Adds a 'Send via WhatsApp' action to the Posted Sales Invoice page. Uses the free Meta WhatsApp Business Cloud API — no third-party tools required.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://youtube.com/@BizCentralOrbit",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2034-209f-4330-bf29-f1a3e1e31e18",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "22.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "22.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50309
+    }
+  ],
+  "runtime": "12.0",
+  "features": ["NoImplicitWith"]
+}
