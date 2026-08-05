@@ -3,7 +3,7 @@
 A free AL extension that adds a **Dark Mode toggle** to Microsoft Dynamics 365 Business Central.  
 No third-party tools. No AppSource. Just install and switch.
 
-> 📺 **Watch the full tutorial:** [YouTube — BizCentralOrbit]
+> 📺 **Watch the full tutorial:** [YouTube — BizCentralOrbit](https://youtu.be/Jz2-_V9NAKM)
 
 ---
 
